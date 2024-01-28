@@ -49,6 +49,9 @@ body {
     background-position: center;
     background-size: cover;
 }
+.body1 video{
+    width: 100%;
+}
 .body2{
     display: flex;
     flex-wrap: wrap;
